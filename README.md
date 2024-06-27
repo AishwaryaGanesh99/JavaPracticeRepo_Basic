@@ -6,7 +6,7 @@ Array Basic Codes:
 1. Largest Element in the array
 2. Smallest Element in the array
 
-Basic Data Structures in Java:
+Basic Data Structures in Java: (Just enough to understand the concept. No complex coding included)
 1. Linear Search
 2. Binary Search
 
