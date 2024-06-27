@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayBasicCodesInJava/ArrayBasicCodesInJava.iml" filepath="$PROJECT_DIR$/ArrayBasicCodesInJava/ArrayBasicCodesInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlayingWithNumbers/PlayingWithNumbers.iml" filepath="$PROJECT_DIR$/PlayingWithNumbers/PlayingWithNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Top100BasicCodesInJava.iml" filepath="$PROJECT_DIR$/.idea/Top100BasicCodesInJava.iml" />
+    </modules>
+  </component>
+</project>
