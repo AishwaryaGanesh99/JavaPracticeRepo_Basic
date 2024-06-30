@@ -24,3 +24,4 @@ Basic Number Codes in Java:
 10. Power of N (Using loop)
 11. Learn to use 'Break'
 12. Learn to use 'Continue'
+13. Learn to use 'Switch'

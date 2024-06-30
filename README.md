@@ -6,6 +6,7 @@ Array Basic Codes:
 1. Largest Element in the array
 2. Smallest Element in the array
 3. Sort the elements in array (Naive Approach)
+4. Two Dimensional Array 
 
 Basic Data Structures in Java: (Just enough to understand the concept. No complex coding included)
 1. Linear Search
@@ -24,3 +25,4 @@ Basic Number Codes in Java:
 10. Power of N (Using loop)
 11. Learn to use 'Break'
 12. Learn to use 'Continue'
+13. Learn to use 'Switch'
