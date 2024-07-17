@@ -26,3 +26,5 @@ Basic Number Codes in Java:
 11. Learn to use 'Break'
 12. Learn to use 'Continue'
 13. Learn to use 'Switch'
+14. Leap year
+15. Check prime number or not
